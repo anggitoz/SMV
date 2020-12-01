@@ -1,5 +1,6 @@
 ## SMV: Iterasi 3x3 di image
 
+Menggunakan MATLAB
 run script > masukan input file > masukan matriks referensi secara manual > loading > profit
 
 ## Test result
